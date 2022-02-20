@@ -1,3 +1,6 @@
 # hola
+<<<<<<< HEAD
 # cambio boludo
 #otro cambio
+=======
+>>>>>>> parent of 9257ba3... cambio boludo
